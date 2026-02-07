@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ハッピーポンコツ",
+  "base_artist": "キュウソネコカミ",
+  "createdAt": "2026-02-07T14:37:55.602792Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハッピーポンコツ",
+      "artist": "キュウソネコカミ",
+      "has_synced": true,
+      "path": "select/01_ハッピーポンコツ_キュウソネコカミ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハッピーポンコツ",
+      "artist": "キュウソネコカミ",
+      "has_synced": false,
+      "path": "select/pl_01_ハッピーポンコツ_キュウソネコカミ.txt"
+    }
+  ]
+}
